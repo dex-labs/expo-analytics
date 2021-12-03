@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/ryanvanderpol/expo-analytics#readme",
   "dependencies": {
-    "expo-constants": "12.1.2"
+    "expo-constants": "^12.1.2",
+    "expo-application": "^4.0.0",
   },
   "devDependencies": {
     "expo": "^20.0.0",
@@ -33,3 +34,4 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz"
   }
 }
+dex-labs-patch-1
